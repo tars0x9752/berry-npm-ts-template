@@ -10,7 +10,7 @@ A personal TypeScript package starter with yarn berry 2 boilerplate.
 
 ## What to do first
 
-~~Install devDependencies with the command `yarn install`. ~~
+~~Install devDependencies with the command `yarn install`~~.
 
 Actually, No. This template uses yarn v2 Plug'n'Play which means initial `yarn install` is no longer necessary.
 
